@@ -1,0 +1,21 @@
+.menu{
+    color: white;
+    justify-content: center;
+    height: 70px;
+    width: 600px;
+    border: 1px solid #DDDDDD;
+    border-radius: 100px;
+    margin: auto;
+    display: flex;
+    align-items: center;
+}
+.menu ul{
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+    margin-right: auto;
+}
+.menu .onglets a{
+    text-decoration: none;
+    color: rgb(68, 68, 68);
+}
